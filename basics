@@ -34,4 +34,11 @@ For multiple line comment, enclose the comment between /* and */
 /*this is 
   a multiple line 
   comment */
+  code:
+  #inlcude<bits/stdc++.h>
+  using namespace std;
+  int main()
+  {
+  // write your code here.
+}
 
